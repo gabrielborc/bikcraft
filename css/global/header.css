@@ -2,9 +2,6 @@
 
 .header {
   display: flex;
-  max-width: 1200px;
-  margin: auto;
-  padding: 20px;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: space-between;

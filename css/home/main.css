@@ -7,9 +7,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
-  max-width: 1200px;
-  margin: auto;
-  padding: 0 20px;
+  padding-top: 20px;
 }
 
 .introduction img {
@@ -29,16 +27,6 @@
 
 .introduction p {
   margin-bottom: 20px;
-}
-
-@media (max-width: 1200px) {
-  .introduction h1 {
-    font-size: 48px;
-  }
-
-  .introduction p {
-    font-size: 18px;
-  }
 }
 
 @media (max-width: 800px) {
