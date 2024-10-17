@@ -5,6 +5,9 @@
 
 @import url('utilities/components.css');
 
+
+/** Home **/
 @import url('home/main.css');
+@import url('home/technology.css');
 
 @import url('bicycles/bicycles-list.css');
