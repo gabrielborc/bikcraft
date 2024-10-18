@@ -9,5 +9,6 @@
 /** Home **/
 @import url('home/main.css');
 @import url('home/technology.css');
+@import url('home/partner.css');
 
 @import url('bicycles/bicycles-list.css');
