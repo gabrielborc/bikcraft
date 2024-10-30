@@ -6,6 +6,7 @@
   gap: 20px;
   justify-content: space-between;
   align-items: center;
+  padding-top: 16px;
 }
 
 .header-bg {
