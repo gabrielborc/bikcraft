@@ -11,11 +11,15 @@
 @import url('home/technology.css');
 @import url('home/partner.css');
 @import url('home/testimonial.css');
-@import url('home/insurance.css');
 
 /** Bicycles **/
 @import url('bicycles/bicycles-list.css');
 @import url('bicycles/bicycles.css');
+
+/** Insurance **/
+@import url('insurance/insurance.css');
+@import url('insurance/advantages.css');
+@import url('insurance/questions.css');
 
 /** Terms **/
 @import url('terms/terms.css');
