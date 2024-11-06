@@ -6,12 +6,14 @@
 
 @import url('utilities/components.css');
 
-
 /** Home **/
 @import url('home/main.css');
 @import url('home/technology.css');
 @import url('home/partner.css');
 @import url('home/testimonial.css');
 @import url('home/insurance.css');
+
+/** Terms **/
+@import url('terms/terms.css');
 
 @import url('bicycles/bicycles-list.css');
