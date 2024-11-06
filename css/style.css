@@ -13,7 +13,9 @@
 @import url('home/testimonial.css');
 @import url('home/insurance.css');
 
+/** Bicycles **/
+@import url('bicycles/bicycles-list.css');
+@import url('bicycles/bicycles.css');
+
 /** Terms **/
 @import url('terms/terms.css');
-
-@import url('bicycles/bicycles-list.css');
