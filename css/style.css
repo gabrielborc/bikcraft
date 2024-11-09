@@ -4,7 +4,9 @@
 @import url('global/header.css');
 @import url('global/footer.css');
 
+/** Utilities **/
 @import url('utilities/components.css');
+@import url('utilities/form.css');
 
 /** Home **/
 @import url('home/main.css');
@@ -17,13 +19,17 @@
 @import url('bicycles/bicycles.css');
 
 /** Bicycle **/
-@import url("bicycle/bicycle.css");
-@import url("bicycle/bicycle-insurance.css");
+@import url('bicycle/bicycle.css');
+@import url('bicycle/bicycle-insurance.css');
 
 /** Insurance **/
 @import url('insurance/insurance.css');
 @import url('insurance/advantages.css');
 @import url('insurance/questions.css');
+
+/** Contact **/
+@import url('contact/contact.css');
+@import url('contact/stores.css');
 
 /** Terms **/
 @import url('terms/terms.css');

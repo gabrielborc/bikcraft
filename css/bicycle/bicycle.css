@@ -11,6 +11,10 @@
   padding-bottom: 60px;
 }
 
+#bicycle .title-bg {
+  padding-bottom: 0px;
+}
+
 #bicycle .title p {
   text-transform: uppercase;
 }
